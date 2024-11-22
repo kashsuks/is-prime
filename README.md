@@ -1,2 +1,2 @@
-# is-prime
-A pip module to check if a number is prime
+# math-tools
+An easy to use module for mathematical calculations
