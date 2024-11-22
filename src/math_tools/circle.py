@@ -2,11 +2,13 @@ import math
 
 def area(radius: float) -> float:
     """
-    Finds the area of the circle given the radius.
 
-    :param radius: Radius of the circle.
-    :type radius: float
-    :return: area (float)
+    Args:
+        radius: (float) The radius of the circle
+
+    Returns:
+        area: (float) The area of the circle
+
     """
     if radius < 0:
         return 0
@@ -14,11 +16,12 @@ def area(radius: float) -> float:
 
 def perimeter(radius: float) -> float:
     """
-    Finds the area of the circle given the radius.
 
-    :param radius: Radius of the circle.
-    :type radius: float
-    :return: perimeter (float)
+    Args:
+        radius: (float) The radius of the circle
+
+    Returns:
+        perimeter: (float) The perimeter of the circle
     """
     if radius < 0:
         return 0
