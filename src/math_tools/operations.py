@@ -13,3 +13,5 @@ def add(a: float, b: float) -> float:
     """
 
     return a + b
+
+#TO-DO: Add a multiple divide and other common operations here
